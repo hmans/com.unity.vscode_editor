@@ -37,7 +37,6 @@ namespace VSCodePackage
     {
         ""**/.DS_Store"":true,
         ""**/.git"":true,
-        ""**/.gitignore"":true,
         ""**/.gitmodules"":true,
         ""**/*.booproj"":true,
         ""**/*.pidb"":true,
